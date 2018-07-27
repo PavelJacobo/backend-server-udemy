@@ -1,0 +1,1 @@
+module.exports.SEED = '@CAca(deVaca@aoj12';
