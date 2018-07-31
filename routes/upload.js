@@ -17,7 +17,7 @@ app.put('/:tipocoleccion/:id', (req, res, next) => {
     var tipocoleccion = req.params.tipocoleccion;
     var id = req.params.id;
 
-    // tipos de colección
+    // tipos de colección válidos
 
     var tiposDeColeccionValidos = ['hospitales', 'medicos', 'usuarios'];
 
